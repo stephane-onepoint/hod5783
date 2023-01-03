@@ -1,0 +1,10 @@
+Puzzle	Solve Time	# Attempts
+0 	5 minutes 	2
+1 	32 minutes 	1
+2 	25 minutes 	16
+3 	13 minutes 	1
+4 	13 minutes 	1
+5 	5 minutes 	1
+6 	83 minutes 	1
+7 	2 hours 	20
+8 	8 minutes 	1
