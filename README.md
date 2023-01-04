@@ -1,10 +1,10 @@
-En parallèle de l'advent of code, très orienté algorithmes et structures de données, a eu lieu le hanukkah of data, orienté analyse de données. Huit petits challenges qui demandent de trouver des réponses dans un set de données relationnelles. 
+En parallèle de l'[advent of code](https://adventofcode.com/2022/), très orienté algorithmes et structures de données, a eu lieu le [hanukkah of data](https://hanukkah.bluebird.sh/5783/), orienté analyse de données. Huit petits challenges qui demandent de trouver des réponses dans un set de données relationnelles. 
 
 Pour ceux qui seraient tenté d'exercer leurs compétences de data miner, rassurez vous, vous n'y passerez pas des soirées entières comme pour l'AoC. Ici une seule devrait suffire :)
 
 Les données sont disponibles en JSON, CSV et SQL ; de quoi laisser libre court au choix de l'outil : excel, jq, pandas, spark, etc.
 
-Je l'ai dans un premier temps fait en SQL avec SQLite et ensuite j'ai voulu tester Duckdb, une base de données embarquée (comme sqlite donc) mais orienté OLAP, avec un stockage en colonnes.
+Je l'ai dans un premier temps fait en SQL avec [SQLite](https://sqlite.org/) et ensuite j'ai voulu tester [Duckdb](https://duckdb.org/), une base de données embarquée (comme sqlite donc) mais orienté OLAP, avec un stockage en colonnes.
 
 Je n'ai pas été déçu. Tout d'abord je n'ai que très peu retouché le code pour qu'il fonction avec Duckdb. Les messages d'erreurs étaient explicites et les ajustements simples.
 
